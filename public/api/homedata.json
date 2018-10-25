@@ -1,0 +1,129 @@
+{
+	"status":"success",
+	"data":{
+		"bannerList": [
+			{
+				"id": 1,
+				"imgUrl": "//upload.jianshu.io/admin_banners/web_images/4355/90aa72980ef59c6cb49f851edc095329fb695a92.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+			},
+			{
+				"id": 2,
+				"imgUrl": "//upload.jianshu.io/admin_banners/web_images/4502/25b524b6d1d21c508b7ca6a6a0a77ead48eed1b6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+			},
+			{
+				"id": 3,
+				"imgUrl": "//upload.jianshu.io/admin_banners/web_images/4520/83fadd2df821d52fb277287ac4a189e8d21b7b65.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+			},
+			{
+				"id": 4,
+				"imgUrl": "//upload.jianshu.io/admin_banners/web_images/4516/cd9298634ca88ca71fc12752acf47917967a5d31.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+			}
+		],
+		"topicList": [
+			{
+				"id": 1,
+				"imgUrl": "//upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+				"word": "@IT·互联网"
+			},
+			{
+				"id": 2,
+				"imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+				"word": "故事"
+			}
+		],
+		"articleList": [
+			{
+				"id": 1,
+				"imgUrl": "//upload-images.jianshu.io/upload_images/2139957-eb68dcd5adcd5b53.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+				"title": "“19岁女孩跳楼了 ” 起哄、怂恿的你们满意了？",
+				"content": "2018年6月28日 晴 星期四 这个世界怎么了······？ 人们对别人的生命如此的冷漠！ 面对一个无助的少女，一个渴望得到关怀的生命竟...",
+				"author": "冰月月",
+				"comments": 42,
+				"praise": 36
+			},
+			{
+				"id": 2,
+				"imgUrl": "//upload-images.jianshu.io/upload_images/2139957-eb68dcd5adcd5b53.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+				"title": "“19岁女孩跳楼了 ” 起哄、怂恿的你们满意了？",
+				"content": "2018年6月28日 晴 星期四 这个世界怎么了······？ 人们对别人的生命如此的冷漠！ 面对一个无助的少女，一个渴望得到关怀的生命竟...",
+				"author": "冰月月",
+				"comments": 42,
+				"praise": 36
+			},
+			{
+				"id": 3,
+				"imgUrl": "//upload-images.jianshu.io/upload_images/2139957-eb68dcd5adcd5b53.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240",
+				"title": "“19岁女孩跳楼了 ” 起哄、怂恿的你们满意了？",
+				"content": "2018年6月28日 晴 星期四 这个世界怎么了······？ 人们对别人的生命如此的冷漠！ 面对一个无助的少女，一个渴望得到关怀的生命竟...",
+				"author": "冰月月",
+				"comments": 42,
+				"praise": 36
+			}
+		],
+		"recommendList":[
+			{
+				"id":1,
+				"imgUrl":"//cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+			},
+			{
+				"id":2,
+				"imgUrl":"//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+			},
+			{
+				"id":3,
+				"imgUrl":"//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+			},
+			{
+				"id":4,
+				"imgUrl":"//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+			},
+			{
+				"id":5,
+				"imgUrl":"//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+			}
+		],
+		"erma":{
+			"imgUrl":"//cdn2.jianshu.io/assets/web/download-index-side-qrcode-cb13fc9106a478795f8d10f9f632fccf.png",
+			"title": "下载简书手机App",
+			"content": "随时随地发现和创作内容"
+		},
+		"authorList":[
+			{
+				"id": 1,
+				"imgUrl": "//upload.jianshu.io/users/upload_avatars/6467455/452f4532-4e3d-45fe-a1c5-da4d7cf5ad6f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96",
+				"name": "楠溪陈酿",
+				"msg": "写了340.7k字 · 252喜欢"
+			},
+			{
+				"id": 2,
+				"imgUrl": "//upload.jianshu.io/users/upload_avatars/6467455/452f4532-4e3d-45fe-a1c5-da4d7cf5ad6f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96",
+				"name": "楠溪陈酿",
+				"msg": "写了340.7k字 · 252喜欢"
+			},
+			{
+				"id": 3,
+				"imgUrl": "//upload.jianshu.io/users/upload_avatars/6467455/452f4532-4e3d-45fe-a1c5-da4d7cf5ad6f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96",
+				"name": "楠溪陈酿",
+				"msg": "写了340.7k字 · 252喜欢"
+			},
+			{
+				"id": 4,
+				"imgUrl": "//upload.jianshu.io/users/upload_avatars/6467455/452f4532-4e3d-45fe-a1c5-da4d7cf5ad6f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96",
+				"name": "楠溪陈酿",
+				"msg": "写了340.7k字 · 252喜欢"
+			},
+			{
+				"id": 5,
+				"imgUrl": "//upload.jianshu.io/users/upload_avatars/6467455/452f4532-4e3d-45fe-a1c5-da4d7cf5ad6f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96",
+				"name": "楠溪陈酿",
+				"msg": "写了340.7k字 · 252喜欢"
+			},
+			{
+				"id": 6,
+				"imgUrl": "//upload.jianshu.io/users/upload_avatars/6467455/452f4532-4e3d-45fe-a1c5-da4d7cf5ad6f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96",
+				"name": "楠溪陈酿",
+				"msg": "写了340.7k字 · 252喜欢"
+			}
+		]
+	}
+}
